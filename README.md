@@ -79,10 +79,26 @@
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect & Collaborate
 
-📧 Email: aaradhyakorde.dev@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/aaradhya-korde/
-💻 Portfolio: https://aaradhyakorde.vercel.app/
+<p align="left">
+  📧 <b>Email:</b> <a href="mailto:aaradhyakorde.dev@gmail.com">aaradhyakorde.dev@gmail.com</a><br>
+  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/aaradhya-korde/">aaradhya-korde</a><br>
+  💻 <b>Portfolio:</b> <a href="https://aaradhyakorde.vercel.app/">aaradhyakorde.vercel.app</a>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:aaradhyakorde.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aaradhya-korde/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://aaradhyakorde.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---  

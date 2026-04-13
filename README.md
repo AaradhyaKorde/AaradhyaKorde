@@ -79,23 +79,10 @@
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaradhyaKorde&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaradhyaKorde&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 Email: aaradhyakorde.dev@gmail.com  
-💼 LinkedIn: [(https://www.linkedin.com/in/aaradhya-korde/)]  
-💻 Portfolio: [(https://aaradhyakorde.vercel.app/)]  
+💼 LinkedIn: https://www.linkedin.com/in/aaradhya-korde/
+💻 Portfolio: https://aaradhyakorde.vercel.app/
 
----
-
-## ⚡ Fun Fact
-
-I optimize systems faster than I optimize my sleep schedule 😄  
+---  

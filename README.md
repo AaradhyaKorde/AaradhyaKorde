@@ -1,53 +1,42 @@
-# Hi, I'm Aaradhya Korde 👋
+# Hi, I'm Aaradhya Korde 👋  
+🔬 I’m a Full-Stack Developer specializing in the MERN stack. I enjoy building end-to-end web solutions that scale and perform well.  
 
-**Full-Stack Developer (MERN)** with 3+ years of experience building scalable web apps.  
-🔭 I develop performant React/Node.js applications and robust CI/CD pipelines.  
-⚡ I thrive on solving challenging problems and learning new technologies.
+## 🔗 About Me
+- **Role:** Full-Stack (React/Node.js) Developer (3 years experience).  
+- **Passion:** UX and performance – writing clean, reusable code; optimizing UIs and APIs.  
+- **Goals:** Leverage cloud-native tools, contribute to open-source, and mentor new developers.  
 
-## 📖 About Me
-- **Expertise:** MERN (React, Node.js, Express, MongoDB) | TypeScript | AWS | Docker  
-- **Passionate about:** UI/UX polish, cloud deployments, and data optimization.  
-- **Current Focus:** Leading dev of **Steer Health** (healthcare SaaS) and exploring AI-driven features.
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="30" height="30"/>
+</p>
+*(React, Node.js, TypeScript, MongoDB, Docker, AWS, etc.)*
 
-## 🛠 Tech Stack
-- **Frontend:** React, TypeScript, Redux, HTML5, CSS3  
-- **Backend:** Node.js, Express, REST/GraphQL, MongoDB, PostgreSQL, Redis  
-- **DevOps:** Docker, AWS (EC2/S3), GitHub Actions, Nginx, CI/CD Pipelines  
-- **Testing & Tools:** Jest, React Testing Library, Sentry, Grafana, Git, Agile/Scrum  
+## 🚀 Key Projects  
+- **Steer Health (Healthcare SaaS):** Built a patient-management platform with React and Node.js. Improved data-dashboard throughput by ~40% (handling 50k+ records)【22†L91-L99】.  
+- **Logistics Dashboard:** Developed a real-time shipment tracker (Project-44). Handled 200k+ UI records and 10k+ location events/day, reducing UI lag ~60%.  
+- **Claimant Mitra (Insurance Platform):** Architected a digital claim processing ecosystem for 1000+ agents, including RBAC and secure APIs.
 
-## 🚀 Key Projects
-- **Steer Health (Healthcare SaaS)** – *MERN Stack*  
-  - Led development of multi-tenant patient and clinic dashboards (50k+ records).  
-  - Improved data rendering and state management, **reducing UI latency by ~60%**【22†L91-L99】.  
-- **Logistics Dashboard (Project-44)** – *React/Node.js*  
-  - Built a real-time shipment control panel handling ~200k records and 10k+ events/day.  
-  - Optimized API usage (–25% calls) and UI virtualization, **improving performance by ~60%**.  
-- **Claimant Mitra (Insurance Platform)** – *React/Node.js*  
-  - Architected an end-to-end claim-processing system for 100+ agents and 1000+ sub-users.  
-  - Implemented RBAC & secure auth; digitized workflows previously manual, boosting efficiency.
+## 🏢 Experience  
+- **NoxAlgo LLP** – MERN Developer (Jan 2024–Present) *Steer Health product lead*.  
+- **Claimant Mitra** – Software Dev (Sep–Dec 2023) *Full-stack developer for insurance platform*.  
+- **Project-44** – Frontend Dev (Jan 2024–Sep 2025) *Logistics analytics dashboard*.  
 
-## 💼 Experience
-- **NoxAlgo LLP** – MERN Developer (Remote, Jan 2024–Present)  
-  Steer Health lead developer: patient engagement features, data dashboards, audit logs for 10k+ actions/day.  
-- **Project-44** – Front-End Developer (Jan 2024–Sep 2025)  
-  Enhanced logistics analytics UI and tracking systems, ensuring smooth performance under high concurrency.  
-- **Claimant Mitra** – Software Developer (Sep–Dec 2023)  
-  Delivered a multi-tier insurance claims platform; centralized process from manual to digital.
+## 📈 Achievements & Metrics  
+- **Reduced API latency** to ~2s by refactoring data pipelines and caching (30% fewer calls).  
+- **Enhanced UI performance:** UI virtualization for 200k+ rows (reduced rendering time 60%).  
+- **Community:** 300+ GitHub contributions last year (with streaks and stats).  
 
-## 📊 Achievements & Metrics
-- 📈 Reduced data update latency **to ~2s** in key services (cut +25% API calls).  
-- ⚡ Enhanced large-scale data rendering (100k+ rows) with virtualization (react-window).  
-- ✅ Wrote 50+ unit/integration tests, cutting production bugs by ~30%.  
-- 🌟 **GitHub Stats:** 300+ contributions in the last year (see stats below).
+## 📫 Contact & Links  
+- **Email:** aaradhyakorde.dev@gmail.com  
+- **Portfolio:** [aaradhyakorde.dev][portfolio_link] · **LinkedIn:** [Aaradhya Korde][linkedin_link]  
+- **GitHub:** https://github.com/AaradhyaKorde
 
-## 📬 Contact & Links
-- 📧 Email: aaradhyakorde.dev@gmail.com  
-- 🌐 Portfolio: [aaradhyakorde.dev](https://aaradhyakorde.dev)  
-- 🤝 LinkedIn: [Aaradhya Korde][linkedin_link] | GitHub: [AaradhyaKorde](https://github.com/AaradhyaKorde)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaradhyaKorde&show_icons=true&theme=github_dark)  
 
-## 📈 GitHub Stats & Badges
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaradhyaKorde&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaradhyaKorde&layout=compact&theme=react)
-![Visitors](https://komarev.com/ghpvc/?username=AaradhyaKorde)
-
-[linkedin_link]: https://www.linkedin.com/in/aaradhya-korde

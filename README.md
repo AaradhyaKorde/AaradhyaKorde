@@ -1,99 +1,53 @@
-# 👋 Hi, I'm Aaradhya Korde
+# Hi, I'm Aaradhya Korde 👋
 
-🚀 Full-Stack Developer (MERN) | Building scalable, high-performance web applications
+**Full-Stack Developer (MERN)** with 3+ years of experience building scalable web apps.  
+🔭 I develop performant React/Node.js applications and robust CI/CD pipelines.  
+⚡ I thrive on solving challenging problems and learning new technologies.
 
----
+## 📖 About Me
+- **Expertise:** MERN (React, Node.js, Express, MongoDB) | TypeScript | AWS | Docker  
+- **Passionate about:** UI/UX polish, cloud deployments, and data optimization.  
+- **Current Focus:** Leading dev of **Steer Health** (healthcare SaaS) and exploring AI-driven features.
 
-## 🧑‍💻 About Me
+## 🛠 Tech Stack
+- **Frontend:** React, TypeScript, Redux, HTML5, CSS3  
+- **Backend:** Node.js, Express, REST/GraphQL, MongoDB, PostgreSQL, Redis  
+- **DevOps:** Docker, AWS (EC2/S3), GitHub Actions, Nginx, CI/CD Pipelines  
+- **Testing & Tools:** Jest, React Testing Library, Sentry, Grafana, Git, Agile/Scrum  
 
-I’m a Full-Stack Developer with **3+ years of experience** specializing in the **MERN stack** (MongoDB, Express, React, Node.js).
-
-I focus on building **scalable systems, optimized dashboards, and performance-driven applications**. I’ve worked on SaaS platforms, logistics systems, and enterprise dashboards handling **high-volume real-time data**.
-
-- ⚡ Strong in React.js, Node.js, TypeScript
-- 📊 Experience with large-scale data (100k+ records)
-- 🔐 Built secure systems with RBAC, audit logs & monitoring
-- 🚀 Focused on performance optimization & clean architecture
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- React.js
-- TypeScript
-- JavaScript (ES6+)
-- Redux
-- HTML5, CSS3
-
-### Backend & Database
-- Node.js
-- Express.js
-- REST & GraphQL APIs
-- MongoDB, PostgreSQL, Redis
-
-### DevOps & Tools
-- AWS (EC2, S3)
-- Docker
-- GitHub Actions (CI/CD)
-- Nginx
-
-### Testing & Monitoring
-- Jest
-- React Testing Library
-- Sentry
-- Grafana
-
----
+## 🚀 Key Projects
+- **Steer Health (Healthcare SaaS)** – *MERN Stack*  
+  - Led development of multi-tenant patient and clinic dashboards (50k+ records).  
+  - Improved data rendering and state management, **reducing UI latency by ~60%**【22†L91-L99】.  
+- **Logistics Dashboard (Project-44)** – *React/Node.js*  
+  - Built a real-time shipment control panel handling ~200k records and 10k+ events/day.  
+  - Optimized API usage (–25% calls) and UI virtualization, **improving performance by ~60%**.  
+- **Claimant Mitra (Insurance Platform)** – *React/Node.js*  
+  - Architected an end-to-end claim-processing system for 100+ agents and 1000+ sub-users.  
+  - Implemented RBAC & secure auth; digitized workflows previously manual, boosting efficiency.
 
 ## 💼 Experience
+- **NoxAlgo LLP** – MERN Developer (Remote, Jan 2024–Present)  
+  Steer Health lead developer: patient engagement features, data dashboards, audit logs for 10k+ actions/day.  
+- **Project-44** – Front-End Developer (Jan 2024–Sep 2025)  
+  Enhanced logistics analytics UI and tracking systems, ensuring smooth performance under high concurrency.  
+- **Claimant Mitra** – Software Developer (Sep–Dec 2023)  
+  Delivered a multi-tier insurance claims platform; centralized process from manual to digital.
 
-### 🔹 NoxAlgo LLP (MERN Stack Developer)
-- Built scalable SaaS modules for healthcare platforms
-- Improved dashboard efficiency by **~40%**
-- Reduced UI latency by **~60%** using virtualization
-- Implemented RBAC, audit logs & monitoring systems
+## 📊 Achievements & Metrics
+- 📈 Reduced data update latency **to ~2s** in key services (cut +25% API calls).  
+- ⚡ Enhanced large-scale data rendering (100k+ rows) with virtualization (react-window).  
+- ✅ Wrote 50+ unit/integration tests, cutting production bugs by ~30%.  
+- 🌟 **GitHub Stats:** 300+ contributions in the last year (see stats below).
 
-### 🔹 Steer Health (MERN Developer)
-- Developed multi-tenant healthcare SaaS platform
-- Optimized API calls by **25–30%**
-- Managed dashboards with **50k+ records/month**
-
-### 🔹 Project-44 (Frontend Developer)
-- Built logistics dashboard with real-time tracking
-- Handled **1k+ vehicles & 10k+ events/day**
-- Optimized tables with **200k+ records**
-
-### 🔹 Claimant Mitra (Software Developer)
-- Architected complete digital ecosystem
-- Scaled system for **100+ agents & 1000+ sub-agents**
-- Built secure multi-level access system
-
----
-
-## 📈 Key Achievements
-
-- 🚀 Reduced UI lag by up to **60%**
-- ⚡ Improved API performance significantly
-- 📊 Built dashboards handling **high-scale data**
-- 🔐 Implemented secure role-based systems
-- 🧪 Reduced production bugs by **25–30%**
-
----
-
-## 📫 Connect With Me
-
+## 📬 Contact & Links
 - 📧 Email: aaradhyakorde.dev@gmail.com  
-- 📱 Phone: +91-9920359684  
-- 💼 LinkedIn: [Add Your Link]
-- 💻 GitHub: [Add Your Link]
+- 🌐 Portfolio: [aaradhyakorde.dev](https://aaradhyakorde.dev)  
+- 🤝 LinkedIn: [Aaradhya Korde][linkedin_link] | GitHub: [AaradhyaKorde](https://github.com/AaradhyaKorde)
 
----
+## 📈 GitHub Stats & Badges
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaradhyaKorde&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaradhyaKorde&layout=compact&theme=react)
+![Visitors](https://komarev.com/ghpvc/?username=AaradhyaKorde)
 
-## ⚡ Fun Fact
-
-I enjoy building systems that don't just work — but scale, perform, and **solve real-world problems efficiently**.
-
----
-
-⭐ *Always open to collaboration, exciting projects, and startup opportunities!*
+[linkedin_link]: https://www.linkedin.com/in/aaradhya-korde

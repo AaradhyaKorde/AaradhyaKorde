@@ -81,14 +81,6 @@
 
 ## 🌐 Let's Connect & Collaborate
 
-<p align="left">
-  📧 <b>Email:</b> <a href="mailto:aaradhyakorde.dev@gmail.com">aaradhyakorde.dev@gmail.com</a><br>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/aaradhya-korde/">aaradhya-korde</a><br>
-  💻 <b>Portfolio:</b> <a href="https://aaradhyakorde.vercel.app/">aaradhyakorde.vercel.app</a>
-</p>
-
----
-
 <p align="center">
   <a href="mailto:aaradhyakorde.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
